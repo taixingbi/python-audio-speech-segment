@@ -1,4 +1,4 @@
-from inaSpeechSegmenter import Segmenter, seg2csv
+from inaSpeechSegmenter import Segmenter
 from pydub import AudioSegment
 
 class cnn_segs:
