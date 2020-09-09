@@ -1,0 +1,14 @@
+
+scipy
+hmmlearn
+plotly
+eyed3
+pyAudioAnalysis
+
+pydub
+tensorflow
+inaSpeechSegmenter
+
+
+
+
